@@ -1,0 +1,25 @@
+﻿Primer mix,Group,Expected %,Observed %
+16S-Vert all,Fish,16.67,12.95
+16S-Vert all,Livestock,16.67,20.79
+16S-Vert all,Marine mammal,16.67,58.01
+16S-Vert all,Penguin,16.67,0.63
+16S-Vert all,Rodent,16.67,7.23
+16S-Vert all,Seabird,16.67,0.4
+12S-Vert all,Fish,16.67,0.11
+12S-Vert all,Livestock,16.67,19.88
+12S-Vert all,Marine mammal,16.67,55.11
+12S-Vert all,Penguin,16.67,0.07
+12S-Vert all,Rodent,16.67,22.18
+12S-Vert all,Seabird,16.67,0.27
+MarVer all,Fish,16.67,15.47
+MarVer all,Livestock,16.67,17.71
+MarVer all,Marine mammal,16.67,43.97
+MarVer all,Penguin,16.67,7.87
+MarVer all,Rodent,16.67,8.2
+MarVer all,Seabird,16.67,6.78
+FISH,Fish,16.67,53.29
+FISH,Livestock,16.67,9.77
+FISH,Marine mammal,16.67,15.08
+FISH,Penguin,16.67,7.87
+FISH,Rodent,16.67,11.01
+FISH,Seabird,16.67,2.98
